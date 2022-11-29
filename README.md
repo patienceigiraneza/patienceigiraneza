@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @patienceigiraneza
-- 👀 I’m Python (Django), Ruby (Rails) and JavaScript (React) Software Engineer
-- 🌱 I’m currently learning Dart (Flutter)
+I am a Full Stack Developer specialized in Django, React, Rails and Flutter with 4+ years of experience in Software Engineering.  I have a strong grip on core python and related problem solving. Using python I can build scalable web apps supported by big data/web scrapping with its analysis. I am experiance in REST API development using Django. I am also experianced in IoT hardware design with Raspberry Pi, Arduino and NodeMCU and IoT software Development with Python. I am an 
+enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 
 <br><br>
 My skills: <br>
@@ -22,6 +21,11 @@ My skills: <br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
