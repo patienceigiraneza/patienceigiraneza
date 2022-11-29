@@ -47,5 +47,5 @@ My skills: <br>
 
 <br><br>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=patienceigiraneza&theme=merko"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=patienceigiraneza&theme=react"/></a>
 </p>
