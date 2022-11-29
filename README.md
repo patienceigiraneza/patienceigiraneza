@@ -4,7 +4,7 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 <br><br>
 My skills: <br>
 - Frontend (HTML, CSS, javascript, Reactjs)
-- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs)
+- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs, PHP)
 - Mobile Application Development (Flutter)
 - Database ( MYSQL, MongoDB, PostgreSQL )
 - Web Scrapping ( BeautifulSoup, Selenium )
@@ -12,7 +12,8 @@ My skills: <br>
 - Data Analysis ( Numpy, Pandas )
 - Data-Driven Python web apps ( Plotly / Streamlit)
 - Artificial intelligence / Machine learning (Keras, OpenCV, TensorFlow)
-- AWS (Amazon Web Services)
+- Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
+- Cloud Computing (Amazon Web Services, Google Cloud)
 
 
 <br>          
