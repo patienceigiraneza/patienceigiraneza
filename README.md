@@ -46,6 +46,7 @@ My skills: <br>
 
 
 <br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=patienceigiraneza)
 <p >
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=patienceigiraneza&theme=react"/></a>
 </p>
