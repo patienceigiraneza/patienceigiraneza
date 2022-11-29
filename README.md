@@ -3,20 +3,7 @@ I am a Full Stack Developer specialized in Django, React, Rails and Flutter with
 enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
   </span>
 
-<br><br>
-My skills: <br>
-- Frontend (HTML, CSS, javascript, Reactjs)
-- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs, PHP)
-- Mobile Application Development (Flutter)
-- Database ( MYSQL, MongoDB, PostgreSQL )
-- Web Scrapping ( BeautifulSoup, Selenium )
-- Automation ( Selenium webdriver )
-- Data Analysis ( Numpy, Pandas )
-- Data-Driven Python web apps ( Plotly / Streamlit)
-- Artificial intelligence / Machine learning (Keras, OpenCV, TensorFlow)
-- Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
-- Cloud Computing (Amazon Web Services, Google Cloud)
-
+<br>
 
 <br>          
 <div>
@@ -42,5 +29,21 @@ My skills: <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+<br>
+My skills: <br>
+- Frontend (HTML, CSS, javascript, Reactjs)
+- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs, PHP)
+- Mobile Application Development (Flutter)
+- Database ( MYSQL, MongoDB, PostgreSQL )
+- Web Scrapping ( BeautifulSoup, Selenium )
+- Automation ( Selenium webdriver )
+- Data Analysis ( Numpy, Pandas )
+- Data-Driven Python web apps ( Plotly / Streamlit)
+- Artificial intelligence / Machine learning (Keras, OpenCV, TensorFlow)
+- Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
+- Cloud Computing (Amazon Web Services, Google Cloud)
+
+
 
 
