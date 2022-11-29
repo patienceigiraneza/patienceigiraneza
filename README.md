@@ -3,9 +3,19 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 
 <br><br>
 My skills: <br>
+- Frontend (HTML, CSS, javascript, Reactjs)
+- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs)
+- Mobile Application Development (Flutter)
+- Database ( MYSQL, MongoDB, PostgreSQL )
+- Web Scrapping ( BeautifulSoup, Selenium )
+- Automation ( Selenium webdriver )
+- Data Analysis ( Numpy, Pandas )
+- Data-Driven Python web apps ( Plotly / Streamlit)
+- Artificial intelligence / Machine learning (Keras, OpenCV, TensorFlow)
+- AWS (Amazon Web Services)
 
 
-          
+<br>          
 <div>
   
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="python" width="40" height="40"/>&nbsp;&nbsp;
