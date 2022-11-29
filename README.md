@@ -1,5 +1,7 @@
+<span style="text-align: justify;">
 I am a Full Stack Developer specialized in Django, React, Rails and Flutter with 4+ years of experience in Software Engineering.  I have a strong grip on core python and related problem solving. Using python I can build scalable web apps supported by big data/web scrapping with REST API functionalities. I am also experianced in IoT Hardware Design with Raspberry Pi, Arduino and NodeMCU and IoT Software Development with Python. I am an 
 enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
+  </span>
 
 <br><br>
 My skills: <br>
