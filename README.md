@@ -5,8 +5,7 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 
 <br>
 
-<br>          
-<div>
+<br>        
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
@@ -28,9 +27,9 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
 
 <br>
+
 My skills: <br>
 - Frontend (HTML, CSS, javascript, Reactjs)
 - Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs, PHP)
