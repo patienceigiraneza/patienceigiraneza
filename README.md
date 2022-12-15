@@ -3,7 +3,7 @@ I am a Full Stack Developer specialized in Django, React, Rails and Flutter with
 enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
   </span>
 <br><br>
-👉 You can reach me at <a href="mailto:patienceigiraneza2@gmail.com"> patienceigiraneza2@gmail.com </a>
+📫 You can reach me at <a href="mailto:patienceigiraneza2@gmail.com"> patienceigiraneza2@gmail.com </a>
 <br><br><br>
 
 
