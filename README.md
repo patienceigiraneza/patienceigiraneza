@@ -3,7 +3,7 @@ I am a Full Stack Developer specialized in Django, React, Rails and Flutter with
 enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
   </span>
 <br>
-📫 You can reach me at patienceigiraneza2@gmail.com
+📫 You can reach me at <a href="mailto:patienceigiraneza2@gmail.com"> patienceigiraneza2@gmail.com </a>
 <br><br><br>
 
 
@@ -24,6 +24,7 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;&nbsp;
