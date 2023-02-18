@@ -42,7 +42,7 @@ My skills: <br>
 - Automation ( Selenium webdriver )
 - Data Analysis ( Numpy, Pandas )
 - Data-Driven Python web apps ( Plotly / Streamlit)
-- Artificial intelligence / Machine learning (Keras, OpenCV, TensorFlow)
+- Artificial intelligence / Machine learning (OpenCV, PyTorch, scikit-learn, and TensorFlow)
 - Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
 - Cloud Computing (Amazon Web Services, Google Cloud)
 
