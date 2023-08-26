@@ -14,6 +14,8 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="Nextjs" width="40" height="40"/>&nbsp; &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;&nbsp;
@@ -34,15 +36,15 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 <br>
 
 My skills: <br>
-- Frontend (HTML, CSS, javascript, Reactjs)
-- Backend ( Python, Django, Ruby, Rails, API Integration, REST APIs, PHP)
+- Frontend (HTML, CSS, javascript, Reactjs, NextJs, NestJs)
+- Backend ( Django, ExpressJs, NestJs, Laravel, Ruby on Rails, API Integration, REST APIs, PHP)
 - Mobile Application Development (Flutter)
 - Database ( MYSQL, MongoDB, PostgreSQL )
 - Web Scrapping ( BeautifulSoup, Selenium )
 - Automation ( Selenium webdriver )
 - Data Analysis ( Numpy, Pandas )
 - Data-Driven Python web apps ( Plotly / Streamlit)
-- Artificial intelligence / Machine learning (OpenCV, PyTorch, scikit-learn, and TensorFlow)
+- Artificial intelligence / Machine learning (OpenCV, PyTorch, scikit-learn, Keras, and TensorFlow)
 - Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
 - Cloud Computing (Amazon Web Services, Google Cloud)
 
