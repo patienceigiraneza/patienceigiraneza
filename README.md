@@ -1,6 +1,5 @@
 <span style="text-align: justify;">
-I am a Full Stack Developer specialized in Django, React, Rails and Flutter with 4+ years of experience in Software Engineering.  I have a strong grip on core python and related problem solving. Using python I can build scalable web apps supported by big data/web scrapping with REST API functionalities. I am also experianced in IoT Hardware Design with Raspberry Pi, Arduino and NodeMCU and IoT Software Development with Python. I am an 
-enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
+I am a Full Stack Developer with 3+ years of experience specialising in Django, React, and DevOps. I have a solid foundation in software architecture, system design, and end-to-end application development, with a focus on building and deploying scalable web solutions using modern development and CI/CD practices.
   </span>
 <br><br>
 📫 You can reach me at <a href="mailto:patience@iitech.rw"> patience@iitech.rw </a>
@@ -36,14 +35,14 @@ enthusiastic in Data Science, Artificial Intelligence, Machine learning, etc...
 
 My skills: <br>
 - Frontend (HTML, CSS, javascript, Reactjs, NextJs, NestJs)
-- Backend ( Django, ExpressJs, NestJs, Laravel, Ruby on Rails, API Integration, REST APIs, PHP)
+- Backend ( Django, ExpressJs, NestJs, Laravel)
 - Mobile Application Development (Flutter)
 - Database ( MYSQL, MongoDB, PostgreSQL )
-- Web Scrapping ( BeautifulSoup, Selenium )
+- Web Scraping ( BeautifulSoup, Selenium )
 - Automation ( Selenium webdriver )
 - Data Analysis ( Numpy, Pandas )
 - Data-Driven Python web apps ( Plotly / Streamlit)
-- Artificial intelligence / Machine learning (OpenCV, PyTorch, scikit-learn, Keras, and TensorFlow)
+- Artificial intelligence / Machine learning (OpenCV, PyTorch, scikit-learn)
 - Internet of Things System Hardware Design (Raspberry Pi, Arduino and NodeMCU)
 - Cloud Computing (Amazon Web Services, Google Cloud)
 
