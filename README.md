@@ -43,8 +43,9 @@ My skills: <br>
 - Data Analysis: NumPy, Pandas
 - Internet of Things (IoT): Raspberry Pi, Arduino, NodeMCU
 
-
+<!--
 <br><br>
 <p >
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=patienceigiraneza&theme=react"/></a>
 </p>
+-->
