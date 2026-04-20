@@ -2,7 +2,7 @@
 I am a Full Stack Developer with 4+ years of experience, specialising in Python, JavaScript, PHP, and DevOps Engineering. I have a solid foundation in software architecture, system design, and end-to-end application development, with a focus on building and deploying scalable web solutions using modern development and CI/CD practices.
   </span>
 <br><br>
-📫 You can reach me at <a href="mailto:patience@iitech.rw"> patience@iitech.rw </a>
+📫 You can reach me at <a href="mailto:patienceigir@gmail.com"> patienceigir@gmail.com </a>
 <br><br><br>
 
 
